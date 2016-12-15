@@ -6,7 +6,7 @@ This is demo application:
 
 You may install the app using the following command on a Ubuntu raspberry device:
 
-$ sudo snap install piglow-music --devmode
+$ sudo snap install piglow-music --devmode --edge
 
 Once it is installed, you need to find out the IP address of the raspberry PI device, then use a browser to open it like:
 
